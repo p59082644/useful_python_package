@@ -6,4 +6,5 @@
 ### facebook 的python package
 pip install fbprophet
 github  https://github.com/facebook/prophet
+
 example https://github.com/facebook/prophet/blob/master/notebooks/quick_start.ipynb
